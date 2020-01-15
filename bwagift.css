@@ -1,0 +1,102 @@
+.navbar {
+	background-color:#EFF4F8;
+	font-size: 20px;
+	font-family: montserrat;
+}
+
+.nav-item.active a{
+	color:#343851 !important;
+	font-weight: bold;
+}
+
+.nav-item{
+	margin-right: 60px;
+	font-weight: 400;
+}
+
+.jumbotron{
+	background-color: #EFF4F8;
+	height: 600px;
+}
+
+.btn{
+	background-color: #343851;
+	color: white;
+	font-weight: 400;
+}
+
+.input-group{
+	width: 250px;
+}
+
+.product-thumbnail-container{
+	background-color: white;
+	margin-top: -75px;
+	margin-left: 65px;
+	box-shadow: 10px 15px 10px grey;
+	position: absolute;
+	width:220px;
+	height: 80px;
+	padding: 15px;
+}
+
+
+.carousel h4{
+	text-align: center;
+	color: black;
+	font-size: 24px;
+}
+
+.carousel p{ 
+	font-size: 16px;
+	color: #343851;
+
+}
+
+section.sc{
+	margin-top: 150px;
+}
+
+#carouselExampleControls{
+	margin-top: 100px;
+}
+
+.figure-caption h5{
+	font-size: 24px;
+	color: #343851;
+}
+
+.figure-caption p{
+	font-size: 18px;
+	color: grey;
+	margin-top: -10px;
+}
+
+.carousel{
+	margin-bottom: 200px;
+}
+
+
+.fig2 p{
+	font-size: 16px;
+}
+
+h6{
+	color: #343851;
+	margin: auto;
+	font-size: 36px;
+	text-align: center;
+	margin-top: 125px;
+}
+
+footer{
+	background-color: #EFF4F8;
+	height: 200px;
+	width: auto;
+	margin-top: 200px;
+}
+
+.copyright{
+	font-size: 16px;
+}
+
